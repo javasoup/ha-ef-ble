@@ -21,6 +21,12 @@ No internet connection required • Real-time status updates • Full local cont
 
 ---
 
+> [!NOTE]
+> This release channel is maintained in `jkqq147/ha-ef-ble` for the M109 Power
+> Hub deployment. It tracks the upstream `rabits/ha-ef-ble` project while
+> retaining locally validated Power Hub support and entity-preserving reconnect
+> behavior if the upstream pull requests have not landed yet.
+
 ## Overview
 
 This integration enables local communication with EcoFlow power stations, EV chargers,
